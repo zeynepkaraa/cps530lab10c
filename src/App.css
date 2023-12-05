@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.App-header {
+  background-color: #390099;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  text-align: center;
+  color: #FF4785;
+}
+
+ol{
+  line-height: 40px;
+  padding-left: 100px;
+ text-align: left;
+ font-size: calc(7px + 2vmin);
+}
+
+li{
+  padding-left: 10px;
+}
+
+a{
+  color: #FFC31F;
+}
+
+
+
